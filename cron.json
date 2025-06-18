@@ -1,0 +1,6 @@
+[
+  {
+    "command": "python3 scraper.py",
+    "schedule": "0 * * * *"  # setiap 1 jam
+  }
+]

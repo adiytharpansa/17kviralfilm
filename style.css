@@ -1,0 +1,8 @@
+
+body { font-family: sans-serif; background: #f9f9f9; color: #333; margin: 0; }
+header { background: #fff; padding: 1em; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1em; padding: 1em; }
+.card { background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-decoration: none; color: #000; }
+.card img { width: 100%; display: block; }
+.card-title { padding: .5em; font-size: .9em; }
+.video-player { padding: 1em; }
